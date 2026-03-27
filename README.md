@@ -1,4 +1,4 @@
-# Lab7_8-2324802010287_NgoNguyenDucManh_2324802010238_NguyenQuangHuy
+--Automobile Service Center Application--
 
 Dự án ứng dụng quản lý trung tâm dịch vụ ô tô
 
